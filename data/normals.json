@@ -1,1 +1,1207 @@
-{}
+{
+  "P165001001": {
+    "normal_m3s": 27.901,
+    "sample_size": 78,
+    "month": 8
+  },
+  "P230001001": {
+    "normal_m3s": 38.712,
+    "sample_size": 94,
+    "month": 8
+  },
+  "P122000101": {
+    "normal_m3s": 19.554000000000002,
+    "sample_size": 96,
+    "month": 8
+  },
+  "P018000101": {
+    "normal_m3s": 5.718500000000001,
+    "sample_size": 144,
+    "month": 8
+  },
+  "P001001001": {
+    "normal_m3s": 1.5635,
+    "sample_size": 152,
+    "month": 8
+  },
+  "P206000101": {
+    "normal_m3s": 30.56,
+    "sample_size": 114,
+    "month": 8
+  },
+  "P135001001": {
+    "normal_m3s": 25.8,
+    "sample_size": 148,
+    "month": 8
+  },
+  "P163001001": {
+    "normal_m3s": 24.481,
+    "sample_size": 128,
+    "month": 8
+  },
+  "P500000201": {
+    "normal_m3s": 40.845,
+    "sample_size": 18,
+    "month": 8
+  },
+  "P258001001": {
+    "normal_m3s": 32.351,
+    "sample_size": 38,
+    "month": 8
+  },
+  "P532001001": {
+    "normal_m3s": 51.0255,
+    "sample_size": 36,
+    "month": 8
+  },
+  "P555001001": {
+    "normal_m3s": 60.476,
+    "sample_size": 58,
+    "month": 8
+  },
+  "P514001001": {
+    "normal_m3s": 65.923,
+    "sample_size": 98,
+    "month": 8
+  },
+  "O029003001": {
+    "normal_m3s": 17.7545,
+    "sample_size": 40,
+    "month": 8
+  },
+  "P238001001": {
+    "normal_m3s": 37.742999999999995,
+    "sample_size": 152,
+    "month": 8
+  },
+  "O001004003": {
+    "normal_m3s": 12.939499999999999,
+    "sample_size": 110,
+    "month": 8
+  },
+  "O020002001": {
+    "normal_m3s": 24.496499999999997,
+    "sample_size": 84,
+    "month": 8
+  },
+  "O060003001": {
+    "normal_m3s": 51.653,
+    "sample_size": 86,
+    "month": 8
+  },
+  "O080001001": {
+    "normal_m3s": 36.1345,
+    "sample_size": 40,
+    "month": 8
+  },
+  "O262002001": {
+    "normal_m3s": 64.234,
+    "sample_size": 107,
+    "month": 8
+  },
+  "O614001001": {
+    "normal_m3s": 102.307,
+    "sample_size": 160,
+    "month": 8
+  },
+  "O640001001": {
+    "normal_m3s": 82.591,
+    "sample_size": 12,
+    "month": 8
+  },
+  "O900001002": {
+    "normal_m3s": 143.71800000000002,
+    "sample_size": 88,
+    "month": 8
+  },
+  "O200001001": {
+    "normal_m3s": 72.906,
+    "sample_size": 213,
+    "month": 8
+  },
+  "O909001001": {
+    "normal_m3s": 131.399,
+    "sample_size": 76,
+    "month": 8
+  },
+  "O919001001": {
+    "normal_m3s": 126.26050000000001,
+    "sample_size": 24,
+    "month": 8
+  },
+  "K002000101": {
+    "normal_m3s": 1.459,
+    "sample_size": 88,
+    "month": 8
+  },
+  "K001872301": {
+    "normal_m3s": 0.302,
+    "sample_size": 145,
+    "month": 8
+  },
+  "K010002010": {
+    "normal_m3s": 1.8565,
+    "sample_size": 88,
+    "month": 8
+  },
+  "K060001001": {
+    "normal_m3s": 7.099,
+    "sample_size": 22,
+    "month": 8
+  },
+  "K026001002": {
+    "normal_m3s": 4.256,
+    "sample_size": 150,
+    "month": 8
+  },
+  "K069001001": {
+    "normal_m3s": 8.595,
+    "sample_size": 86,
+    "month": 8
+  },
+  "K055001010": {
+    "normal_m3s": 8.558,
+    "sample_size": 152,
+    "month": 8
+  },
+  "K070001020": {
+    "normal_m3s": 9.5215,
+    "sample_size": 60,
+    "month": 8
+  },
+  "K091001010": {
+    "normal_m3s": 18.088,
+    "sample_size": 173,
+    "month": 8
+  },
+  "K190001001": {
+    "normal_m3s": 40.031,
+    "sample_size": 46,
+    "month": 8
+  },
+  "K118001010": {
+    "normal_m3s": 21.988,
+    "sample_size": 138,
+    "month": 8
+  },
+  "K091001012": {
+    "normal_m3s": 18.088,
+    "sample_size": 173,
+    "month": 8
+  },
+  "K144001010": {
+    "normal_m3s": 29.147,
+    "sample_size": 110,
+    "month": 8
+  },
+  "K400001010": {
+    "normal_m3s": 75.696,
+    "sample_size": 112,
+    "month": 8
+  },
+  "K193001010": {
+    "normal_m3s": 37.024,
+    "sample_size": 142,
+    "month": 8
+  },
+  "K408001001": {
+    "normal_m3s": 76.434,
+    "sample_size": 50,
+    "month": 8
+  },
+  "K480001001": {
+    "normal_m3s": 85.7835,
+    "sample_size": 64,
+    "month": 8
+  },
+  "K490003010": {
+    "normal_m3s": 79.7285,
+    "sample_size": 60,
+    "month": 8
+  },
+  "K418001010": {
+    "normal_m3s": 81.306,
+    "sample_size": 177,
+    "month": 8
+  },
+  "K683002001": {
+    "normal_m3s": 97.645,
+    "sample_size": 62,
+    "month": 8
+  },
+  "K435001010": {
+    "normal_m3s": 70.819,
+    "sample_size": 137,
+    "month": 8
+  },
+  "K447001001": {
+    "normal_m3s": 92.90100000000001,
+    "sample_size": 144,
+    "month": 8
+  },
+  "L800001020": {
+    "normal_m3s": 183.48399999999998,
+    "sample_size": 152,
+    "month": 8
+  },
+  "L800001030": {
+    "normal_m3s": 183.48399999999998,
+    "sample_size": 152,
+    "month": 8
+  },
+  "L870001010": {
+    "normal_m3s": 193.036,
+    "sample_size": 22,
+    "month": 8
+  },
+  "L870001020": {
+    "normal_m3s": 193.036,
+    "sample_size": 22,
+    "month": 8
+  },
+  "L870001030": {
+    "normal_m3s": 193.036,
+    "sample_size": 22,
+    "month": 8
+  },
+  "M530001010": {
+    "normal_m3s": 215.4855,
+    "sample_size": 152,
+    "month": 8
+  },
+  "M530001020": {
+    "normal_m3s": 215.4855,
+    "sample_size": 152,
+    "month": 8
+  },
+  "M530001030": {
+    "normal_m3s": 215.4855,
+    "sample_size": 152,
+    "month": 8
+  },
+  "M530001040": {
+    "normal_m3s": 215.4855,
+    "sample_size": 152,
+    "month": 8
+  },
+  "M800002001": {
+    "normal_m3s": 173.062,
+    "sample_size": 31,
+    "month": 8
+  },
+  "F613000102": {
+    "normal_m3s": 39.132000000000005,
+    "sample_size": 28,
+    "month": 8
+  },
+  "F622000402": {
+    "normal_m3s": 42.917,
+    "sample_size": 62,
+    "month": 8
+  },
+  "H503101001": {
+    "normal_m3s": 1.3215000000000001,
+    "sample_size": 4,
+    "month": 8
+  },
+  "F664000104": {
+    "normal_m3s": 50.974,
+    "sample_size": 123,
+    "month": 8
+  },
+  "F664000107": {
+    "normal_m3s": 50.974,
+    "sample_size": 123,
+    "month": 8
+  },
+  "H507104001": {
+    "normal_m3s": 6.875500000000001,
+    "sample_size": 52,
+    "month": 8
+  },
+  "H507101002": {
+    "normal_m3s": 7.01,
+    "sample_size": 187,
+    "month": 8
+  },
+  "H520101003": {
+    "normal_m3s": 33.855,
+    "sample_size": 107,
+    "month": 8
+  },
+  "B022001001": {
+    "normal_m3s": 0.1995,
+    "sample_size": 108,
+    "month": 8
+  },
+  "B115001001": {
+    "normal_m3s": 1.229,
+    "sample_size": 98,
+    "month": 8
+  },
+  "B130001001": {
+    "normal_m3s": 4.01,
+    "sample_size": 54,
+    "month": 8
+  },
+  "B210000101": {
+    "normal_m3s": 2.298,
+    "sample_size": 20,
+    "month": 8
+  },
+  "B213001001": {
+    "normal_m3s": 2.697,
+    "sample_size": 62,
+    "month": 8
+  },
+  "B301001001": {
+    "normal_m3s": 7.0615,
+    "sample_size": 44,
+    "month": 8
+  },
+  "B222001001": {
+    "normal_m3s": 4.4285,
+    "sample_size": 116,
+    "month": 8
+  },
+  "B110000001": {
+    "normal_m3s": 0.709,
+    "sample_size": 62,
+    "month": 8
+  },
+  "H507105001": {
+    "normal_m3s": 5.836,
+    "sample_size": 50,
+    "month": 8
+  },
+  "H501102001": {
+    "normal_m3s": 1.148,
+    "sample_size": 86,
+    "month": 8
+  },
+  "B134001001": {
+    "normal_m3s": 2.532,
+    "sample_size": 120,
+    "month": 8
+  },
+  "H509101002": {
+    "normal_m3s": 31.454,
+    "sample_size": 116,
+    "month": 8
+  },
+  "B315002001": {
+    "normal_m3s": 12.421,
+    "sample_size": 142,
+    "month": 8
+  },
+  "B502001001": {
+    "normal_m3s": 26.528,
+    "sample_size": 60,
+    "month": 8
+  },
+  "B700001002": {
+    "normal_m3s": 37.557,
+    "sample_size": 10,
+    "month": 8
+  },
+  "A455000201": {
+    "normal_m3s": 8.986,
+    "sample_size": 22,
+    "month": 8
+  },
+  "A405062001": {
+    "normal_m3s": 1.453,
+    "sample_size": 110,
+    "month": 8
+  },
+  "B720000001": {
+    "normal_m3s": 42.319,
+    "sample_size": 168,
+    "month": 8
+  },
+  "B720000002": {
+    "normal_m3s": 42.319,
+    "sample_size": 168,
+    "month": 8
+  },
+  "A402061001": {
+    "normal_m3s": 0.626,
+    "sample_size": 94,
+    "month": 8
+  },
+  "A420063001": {
+    "normal_m3s": 5.719,
+    "sample_size": 130,
+    "month": 8
+  },
+  "A443064001": {
+    "normal_m3s": 10.3335,
+    "sample_size": 122,
+    "month": 8
+  },
+  "A511061001": {
+    "normal_m3s": 10.953,
+    "sample_size": 103,
+    "month": 8
+  },
+  "A420063002": {
+    "normal_m3s": 5.719,
+    "sample_size": 130,
+    "month": 8
+  },
+  "A550061001": {
+    "normal_m3s": 11.755,
+    "sample_size": 74,
+    "month": 8
+  },
+  "A021005050": {
+    "normal_m3s": 997.235,
+    "sample_size": 24,
+    "month": 8
+  },
+  "A793061002": {
+    "normal_m3s": 35.8725,
+    "sample_size": 128,
+    "month": 8
+  },
+  "A573061001": {
+    "normal_m3s": 13.9655,
+    "sample_size": 128,
+    "month": 8
+  },
+  "A040000101": {
+    "normal_m3s": 1063.1665,
+    "sample_size": 4,
+    "month": 8
+  },
+  "A060005050": {
+    "normal_m3s": 908.4625,
+    "sample_size": 24,
+    "month": 8
+  },
+  "A061005051": {
+    "normal_m3s": 945.514,
+    "sample_size": 29,
+    "month": 8
+  },
+  "A302009050": {
+    "normal_m3s": 1158.2875,
+    "sample_size": 64,
+    "month": 8
+  },
+  "A355005050": {
+    "normal_m3s": 1078.7475,
+    "sample_size": 24,
+    "month": 8
+  },
+  "A375005050": {
+    "normal_m3s": 1062.0430000000001,
+    "sample_size": 24,
+    "month": 8
+  },
+  "V113000101": {
+    "normal_m3s": 368.97749999999996,
+    "sample_size": 12,
+    "month": 8
+  },
+  "V300911301": {
+    "normal_m3s": 369.685,
+    "sample_size": 6,
+    "month": 8
+  },
+  "V102002001": {
+    "normal_m3s": 416.903,
+    "sample_size": 127,
+    "month": 8
+  },
+  "V300002003": {
+    "normal_m3s": 482.923,
+    "sample_size": 115,
+    "month": 8
+  },
+  "V163002001": {
+    "normal_m3s": 441.129,
+    "sample_size": 91,
+    "month": 8
+  },
+  "V344000101": {
+    "normal_m3s": 543.857,
+    "sample_size": 4,
+    "month": 8
+  },
+  "A850061001": {
+    "normal_m3s": 35.461,
+    "sample_size": 88,
+    "month": 8
+  },
+  "V300002001": {
+    "normal_m3s": 482.923,
+    "sample_size": 115,
+    "month": 8
+  },
+  "V303002001": {
+    "normal_m3s": 583.161,
+    "sample_size": 59,
+    "month": 8
+  },
+  "V401001001": {
+    "normal_m3s": 857.419,
+    "sample_size": 93,
+    "month": 8
+  },
+  "V523401103": {
+    "normal_m3s": 945.756,
+    "sample_size": 1,
+    "month": 8
+  },
+  "V457001001": {
+    "normal_m3s": 80.912,
+    "sample_size": 44,
+    "month": 8
+  },
+  "V548000101": {
+    "normal_m3s": 718.5174999999999,
+    "sample_size": 24,
+    "month": 8
+  },
+  "V453001001": {
+    "normal_m3s": 883.097,
+    "sample_size": 96,
+    "month": 8
+  },
+  "V513101001": {
+    "normal_m3s": 117.913,
+    "sample_size": 73,
+    "month": 8
+  },
+  "V730000202": {
+    "normal_m3s": 87.963,
+    "sample_size": 35,
+    "month": 8
+  },
+  "V730000302": {
+    "normal_m3s": 805.841,
+    "sample_size": 29,
+    "month": 8
+  },
+  "U002001001": {
+    "normal_m3s": 0.575,
+    "sample_size": 78,
+    "month": 8
+  },
+  "U082001001": {
+    "normal_m3s": 35.853,
+    "sample_size": 24,
+    "month": 8
+  },
+  "U112001001": {
+    "normal_m3s": 63.7715,
+    "sample_size": 48,
+    "month": 8
+  },
+  "U061001001": {
+    "normal_m3s": 13.461,
+    "sample_size": 124,
+    "month": 8
+  },
+  "U023001001": {
+    "normal_m3s": 4.596,
+    "sample_size": 122,
+    "month": 8
+  },
+  "U142001001": {
+    "normal_m3s": 34.619,
+    "sample_size": 122,
+    "month": 8
+  },
+  "U312001001": {
+    "normal_m3s": 167.039,
+    "sample_size": 20,
+    "month": 8
+  },
+  "U331001001": {
+    "normal_m3s": 224.23450000000003,
+    "sample_size": 8,
+    "month": 8
+  },
+  "U471001003": {
+    "normal_m3s": 100.161,
+    "sample_size": 50,
+    "month": 8
+  },
+  "U430001001": {
+    "normal_m3s": 127.512,
+    "sample_size": 138,
+    "month": 8
+  },
+  "F240000104": {
+    "normal_m3s": 35.4345,
+    "sample_size": 66,
+    "month": 8
+  },
+  "F490000104": {
+    "normal_m3s": 91.883,
+    "sample_size": 101,
+    "month": 8
+  },
+  "F490000105": {
+    "normal_m3s": 91.883,
+    "sample_size": 101,
+    "month": 8
+  },
+  "F700000112": {
+    "normal_m3s": 137.532,
+    "sample_size": 112,
+    "month": 8
+  },
+  "F700000102": {
+    "normal_m3s": 137.532,
+    "sample_size": 112,
+    "month": 8
+  },
+  "H002001001": {
+    "normal_m3s": 0.597,
+    "sample_size": 44,
+    "month": 8
+  },
+  "H010001001": {
+    "normal_m3s": 0.8095,
+    "sample_size": 116,
+    "month": 8
+  },
+  "H010002001": {
+    "normal_m3s": 2.9355,
+    "sample_size": 116,
+    "month": 8
+  },
+  "H300000201": {
+    "normal_m3s": 246.629,
+    "sample_size": 36,
+    "month": 8
+  },
+  "H170001001": {
+    "normal_m3s": 39.155,
+    "sample_size": 94,
+    "month": 8
+  },
+  "H080001201": {
+    "normal_m3s": 12.9955,
+    "sample_size": 88,
+    "month": 8
+  },
+  "H081001002": {
+    "normal_m3s": 22.703,
+    "sample_size": 128,
+    "month": 8
+  },
+  "H040001001": {
+    "normal_m3s": 5.7325,
+    "sample_size": 152,
+    "month": 8
+  },
+  "H320000104": {
+    "normal_m3s": 222.452,
+    "sample_size": 86,
+    "month": 8
+  },
+  "H322011001": {
+    "normal_m3s": 225.5405,
+    "sample_size": 72,
+    "month": 8
+  },
+  "R002001002": {
+    "normal_m3s": 1.345,
+    "sample_size": 87,
+    "month": 8
+  },
+  "R011002001": {
+    "normal_m3s": 2.149,
+    "sample_size": 82,
+    "month": 8
+  },
+  "R011001001": {
+    "normal_m3s": 2.8295,
+    "sample_size": 106,
+    "month": 8
+  },
+  "R202001002": {
+    "normal_m3s": 6.112,
+    "sample_size": 90,
+    "month": 8
+  },
+  "R222001003": {
+    "normal_m3s": 4.409,
+    "sample_size": 97,
+    "month": 8
+  },
+  "R314001001": {
+    "normal_m3s": 16.274,
+    "sample_size": 17,
+    "month": 8
+  },
+  "R234001001": {
+    "normal_m3s": 16.7725,
+    "sample_size": 36,
+    "month": 8
+  },
+  "R307001002": {
+    "normal_m3s": 11.859,
+    "sample_size": 49,
+    "month": 8
+  },
+  "R523001002": {
+    "normal_m3s": 13.961,
+    "sample_size": 4,
+    "month": 8
+  },
+  "R423001001": {
+    "normal_m3s": 15.556000000000001,
+    "sample_size": 50,
+    "month": 8
+  },
+  "R520001001": {
+    "normal_m3s": 38.4105,
+    "sample_size": 14,
+    "month": 8
+  },
+  "K522090003": {
+    "normal_m3s": 1.441,
+    "sample_size": 59,
+    "month": 8
+  },
+  "K540092001": {
+    "normal_m3s": 3.154,
+    "sample_size": 100,
+    "month": 8
+  },
+  "K509090001": {
+    "normal_m3s": 0.542,
+    "sample_size": 122,
+    "month": 8
+  },
+  "K548092010": {
+    "normal_m3s": 2.522,
+    "sample_size": 10,
+    "month": 8
+  },
+  "K549090001": {
+    "normal_m3s": 4.645,
+    "sample_size": 62,
+    "month": 8
+  },
+  "K622091003": {
+    "normal_m3s": 7.907500000000001,
+    "sample_size": 24,
+    "month": 8
+  },
+  "K650091001": {
+    "normal_m3s": 11.2545,
+    "sample_size": 64,
+    "month": 8
+  },
+  "K671091001": {
+    "normal_m3s": 14.6295,
+    "sample_size": 52,
+    "month": 8
+  },
+  "U200201001": {
+    "normal_m3s": 0.673,
+    "sample_size": 90,
+    "month": 8
+  },
+  "U201202001": {
+    "normal_m3s": 2.092,
+    "sample_size": 82,
+    "month": 8
+  },
+  "U201201001": {
+    "normal_m3s": 1.312,
+    "sample_size": 132,
+    "month": 8
+  },
+  "U202202002": {
+    "normal_m3s": 1.937,
+    "sample_size": 78,
+    "month": 8
+  },
+  "U210201002": {
+    "normal_m3s": 1.032,
+    "sample_size": 88,
+    "month": 8
+  },
+  "U211201001": {
+    "normal_m3s": 5.422,
+    "sample_size": 68,
+    "month": 8
+  },
+  "U222200501": {
+    "normal_m3s": 12.2915,
+    "sample_size": 36,
+    "month": 8
+  },
+  "U212201001": {
+    "normal_m3s": 9.439,
+    "sample_size": 138,
+    "month": 8
+  },
+  "U240201001": {
+    "normal_m3s": 21.03,
+    "sample_size": 94,
+    "month": 8
+  },
+  "U222201001": {
+    "normal_m3s": 15.112,
+    "sample_size": 96,
+    "month": 8
+  },
+  "U214201001": {
+    "normal_m3s": 10.974,
+    "sample_size": 134,
+    "month": 8
+  },
+  "U250201001": {
+    "normal_m3s": 26.857999999999997,
+    "sample_size": 56,
+    "month": 8
+  },
+  "U254201001": {
+    "normal_m3s": 30.98,
+    "sample_size": 128,
+    "month": 8
+  },
+  "U251201001": {
+    "normal_m3s": 29.0805,
+    "sample_size": 152,
+    "month": 8
+  },
+  "U272201001": {
+    "normal_m3s": 42.808,
+    "sample_size": 118,
+    "month": 8
+  },
+  "O700151002": {
+    "normal_m3s": 0.312,
+    "sample_size": 86,
+    "month": 8
+  },
+  "O702153003": {
+    "normal_m3s": 0.652,
+    "sample_size": 101,
+    "month": 8
+  },
+  "O702153002": {
+    "normal_m3s": 0.652,
+    "sample_size": 101,
+    "month": 8
+  },
+  "O710151001": {
+    "normal_m3s": 2.487,
+    "sample_size": 150,
+    "month": 8
+  },
+  "O719151001": {
+    "normal_m3s": 6.9755,
+    "sample_size": 104,
+    "month": 8
+  },
+  "O820151001": {
+    "normal_m3s": 34.0865,
+    "sample_size": 16,
+    "month": 8
+  },
+  "O723403101": {
+    "normal_m3s": 4.126,
+    "sample_size": 149,
+    "month": 8
+  },
+  "O866151002": {
+    "normal_m3s": 25.71,
+    "sample_size": 50,
+    "month": 8
+  },
+  "O848153003": {
+    "normal_m3s": 39.11,
+    "sample_size": 53,
+    "month": 8
+  },
+  "O823153001": {
+    "normal_m3s": 31.463,
+    "sample_size": 73,
+    "month": 8
+  },
+  "O823153002": {
+    "normal_m3s": 31.463,
+    "sample_size": 73,
+    "month": 8
+  },
+  "M323091020": {
+    "normal_m3s": 3.9055,
+    "sample_size": 44,
+    "month": 8
+  },
+  "M306091010": {
+    "normal_m3s": 0.837,
+    "sample_size": 66,
+    "month": 8
+  },
+  "M302091010": {
+    "normal_m3s": 0.221,
+    "sample_size": 64,
+    "month": 8
+  },
+  "M323092010": {
+    "normal_m3s": 3.77,
+    "sample_size": 113,
+    "month": 8
+  },
+  "M360091010": {
+    "normal_m3s": 5.8635,
+    "sample_size": 112,
+    "month": 8
+  },
+  "M334091010": {
+    "normal_m3s": 5.002,
+    "sample_size": 110,
+    "month": 8
+  },
+  "M363091010": {
+    "normal_m3s": 6.166,
+    "sample_size": 112,
+    "month": 8
+  },
+  "M005061020": {
+    "normal_m3s": 1.2465,
+    "sample_size": 104,
+    "month": 8
+  },
+  "M025061010": {
+    "normal_m3s": 3.379,
+    "sample_size": 104,
+    "month": 8
+  },
+  "M025061020": {
+    "normal_m3s": 3.379,
+    "sample_size": 104,
+    "month": 8
+  },
+  "M050061010": {
+    "normal_m3s": 11.419,
+    "sample_size": 142,
+    "month": 8
+  },
+  "K163301001": {
+    "normal_m3s": 0.137,
+    "sample_size": 10,
+    "month": 8
+  },
+  "M068061010": {
+    "normal_m3s": 12.206,
+    "sample_size": 110,
+    "month": 8
+  },
+  "O303101001": {
+    "normal_m3s": 0.661,
+    "sample_size": 122,
+    "month": 8
+  },
+  "O313000101": {
+    "normal_m3s": 0.293,
+    "sample_size": 38,
+    "month": 8
+  },
+  "O301101001": {
+    "normal_m3s": 0.2495,
+    "sample_size": 148,
+    "month": 8
+  },
+  "O312102002": {
+    "normal_m3s": 1.5950000000000002,
+    "sample_size": 128,
+    "month": 8
+  },
+  "O343000101": {
+    "normal_m3s": 0.021,
+    "sample_size": 28,
+    "month": 8
+  },
+  "O340101002": {
+    "normal_m3s": 12.165,
+    "sample_size": 122,
+    "month": 8
+  },
+  "O347000101": {
+    "normal_m3s": 14.658,
+    "sample_size": 47,
+    "month": 8
+  },
+  "O314101001": {
+    "normal_m3s": 6.6905,
+    "sample_size": 152,
+    "month": 8
+  },
+  "O360102001": {
+    "normal_m3s": 14.552,
+    "sample_size": 38,
+    "month": 8
+  },
+  "O400101001": {
+    "normal_m3s": 52.678,
+    "sample_size": 68,
+    "month": 8
+  },
+  "O408101001": {
+    "normal_m3s": 91.481,
+    "sample_size": 84,
+    "month": 8
+  },
+  "O499103001": {
+    "normal_m3s": 23.465,
+    "sample_size": 34,
+    "month": 8
+  },
+  "O493101001": {
+    "normal_m3s": 28.477,
+    "sample_size": 129,
+    "month": 8
+  },
+  "O494101001": {
+    "normal_m3s": 110.113,
+    "sample_size": 38,
+    "month": 8
+  },
+  "O384000201": {
+    "normal_m3s": 17.835,
+    "sample_size": 219,
+    "month": 8
+  },
+  "G410000301": {
+    "normal_m3s": 0.381,
+    "sample_size": 8,
+    "month": 8
+  },
+  "L001061001": {
+    "normal_m3s": 0.375,
+    "sample_size": 73,
+    "month": 8
+  },
+  "L005063001": {
+    "normal_m3s": 2.032,
+    "sample_size": 64,
+    "month": 8
+  },
+  "L062061001": {
+    "normal_m3s": 17.563499999999998,
+    "sample_size": 36,
+    "month": 8
+  },
+  "L001061101": {
+    "normal_m3s": 0.394,
+    "sample_size": 110,
+    "month": 8
+  },
+  "L040061001": {
+    "normal_m3s": 17.258,
+    "sample_size": 155,
+    "month": 8
+  },
+  "L092061002": {
+    "normal_m3s": 22.180500000000002,
+    "sample_size": 104,
+    "month": 8
+  },
+  "L094061001": {
+    "normal_m3s": 22.6555,
+    "sample_size": 52,
+    "month": 8
+  },
+  "L014061001": {
+    "normal_m3s": 9.59,
+    "sample_size": 142,
+    "month": 8
+  },
+  "L040061002": {
+    "normal_m3s": 17.258,
+    "sample_size": 155,
+    "month": 8
+  },
+  "L144061001": {
+    "normal_m3s": 19.518,
+    "sample_size": 38,
+    "month": 8
+  },
+  "L140061001": {
+    "normal_m3s": 21.745,
+    "sample_size": 82,
+    "month": 8
+  },
+  "L320061001": {
+    "normal_m3s": 33.371,
+    "sample_size": 10,
+    "month": 8
+  },
+  "L720061001": {
+    "normal_m3s": 40.584,
+    "sample_size": 34,
+    "month": 8
+  },
+  "I535201001": {
+    "normal_m3s": 0.418,
+    "sample_size": 82,
+    "month": 8
+  },
+  "L320062001": {
+    "normal_m3s": 34.415,
+    "sample_size": 130,
+    "month": 8
+  },
+  "L700061001": {
+    "normal_m3s": 47.028,
+    "sample_size": 140,
+    "month": 8
+  },
+  "V421401001": {
+    "normal_m3s": 0.253,
+    "sample_size": 148,
+    "month": 8
+  },
+  "V426401001": {
+    "normal_m3s": 2.948,
+    "sample_size": 114,
+    "month": 8
+  },
+  "M104161010": {
+    "normal_m3s": 0.605,
+    "sample_size": 110,
+    "month": 8
+  },
+  "M115161010": {
+    "normal_m3s": 5.6075,
+    "sample_size": 104,
+    "month": 8
+  },
+  "M134161010": {
+    "normal_m3s": 7.884,
+    "sample_size": 66,
+    "month": 8
+  },
+  "E635140201": {
+    "normal_m3s": 4.931,
+    "sample_size": 42,
+    "month": 8
+  },
+  "E635142002": {
+    "normal_m3s": 1.3860000000000001,
+    "sample_size": 52,
+    "month": 8
+  },
+  "M153161010": {
+    "normal_m3s": 10.885,
+    "sample_size": 126,
+    "month": 8
+  },
+  "E635142601": {
+    "normal_m3s": 4.6985,
+    "sample_size": 16,
+    "month": 8
+  }
+}
