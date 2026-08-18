@@ -147,38 +147,18 @@ def parse_float(x: Any) -> float | None:
         return None
 
 
-def scrape_zero_scale(code: str) -> tuple[float | None, str | None]:
-    """HydroPortail station fiche: current 'Cote du zéro d'échelle'."""
-    url = f"{HYDROPORTAIL}/stationhydro/{code}/fiche"
-    try:
-        r = SESSION.get(url, timeout=45, headers={"User-Agent": "OpenEAU-GitHubActions/2.0"})
-        r.raise_for_status()
-        soup = BeautifulSoup(r.text, "html.parser")
-        text = soup.get_text(" ", strip=True)
-        patterns = [
-            r"Cote du zéro d[’']échelle\s*([0-9]+(?:[,.][0-9]+)?)\s*m",
-            r"Cote du zéro d[’']échelle\s*:\s*([0-9]+(?:[,.][0-9]+)?)\s*m",
-        ]
-        zero = None
-        for p in patterns:
-            m = re.search(p, text, flags=re.I)
-            if m:
-                zero = float(m.group(1).replace(",", "."))
-                break
-        datum = None
-        if zero is not None:
-            pos = text.lower().find("cote du zéro")
-            frag = text[pos:pos + 900]
-            m = re.search(r"(NGF[_ -]?[A-Z0-9]+|IGN\s*1969|Nivellement Général de la France 1884)", frag, flags=re.I)
-            if m:
-                datum = m.group(1)
-        return zero, datum
-    except Exception as exc:
-        print(f"[WARN] zéro d'échelle {code}: {exc}")
-        return None, None
 
+def station_record(station: dict[str, Any]) -> dict[str, Any]:
+    # Hub'Eau fournit directement la cote du zéro d'échelle
+    # dans le référentiel hydrométrique.
+    zero = parse_float(station.get("altitude_ref_alti_station"))
 
-def station_record(station: dict[str, Any], zero: float | None, datum: str | None) -> dict[str, Any]:
+    datum = (
+        station.get("sys_alti_ref_alti_station")
+        or station.get("systeme_alti_ref_alti_station")
+        or station.get("code_systeme_alti_ref_alti_station")
+    )
+
     return {
         "code": station.get("code_station"),
         "site_code": station.get("code_site"),
@@ -191,6 +171,8 @@ def station_record(station: dict[str, Any], zero: float | None, datum: str | Non
         "importance": importance(station),
         "zero_scale_m": zero,
         "zero_scale_datum": datum,
+        "zero_scale_updated": station.get("date_maj_ref_alti_station"),
+        "zero_scale_start": station.get("date_debut_ref_alti_station"),
     }
 
 
@@ -290,35 +272,16 @@ def main() -> None:
     print(f"Stations brutes : {len(raw)}")
     print(f"Stations retenues : {len(selected)}")
 
-    old = load_json_file(STATIONS_FILE, {"stations":[]})
-    old_by_code = {s.get("code"): s for s in old.get("stations", []) if s.get("code")}
-
-    missing = [s for s in selected if old_by_code.get(s["code_station"], {}).get("zero_scale_m") is None]
-    print(f"Cotes du zéro à récupérer : {len(missing)}")
-
-    scraped: dict[str, tuple[float|None,str|None]] = {}
-    with ThreadPoolExecutor(max_workers=6) as executor:
-        futures = {executor.submit(scrape_zero_scale, s["code_station"]): s for s in missing}
-        for future in as_completed(futures):
-            s = futures[future]
-            try:
-                scraped[s["code_station"]] = future.result()
-            except Exception as exc:
-                scraped[s["code_station"]] = (None,None)
-                print(f"[WARN] zéro {s['code_station']}: {exc}")
-
-    station_rows = []
-    for s in selected:
-        old_row = old_by_code.get(s["code_station"], {})
-        if old_row.get("zero_scale_m") is not None:
-            zero = old_row.get("zero_scale_m")
-            datum = old_row.get("zero_scale_datum")
-        else:
-            zero, datum = scraped.get(s["code_station"], (None,None))
-        station_rows.append(station_record(s, zero, datum))
-
+    station_rows = [station_record(s) for s in selected]
     station_rows.sort(key=lambda x:(x["importance"], normalize(x.get("river")), x["name"]))
-    STATIONS_FILE.write_text(json.dumps({"updated":datetime.now(timezone.utc).isoformat(),"count":len(station_rows),"stations":station_rows}, ensure_ascii=False, indent=2), encoding="utf-8")
+    STATIONS_FILE.write_text(
+        json.dumps({
+            "updated": datetime.now(timezone.utc).isoformat(),
+            "count": len(station_rows),
+            "stations": station_rows,
+        }, ensure_ascii=False, indent=2),
+        encoding="utf-8",
+    )
 
     normals = load_json_file(NORMALS_FILE, {})
     month = datetime.now(timezone.utc).month
