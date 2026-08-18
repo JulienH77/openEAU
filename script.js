@@ -598,6 +598,26 @@ async function loadStationHistory(code) {
 }
 
 // ------------------------------------------------------------
+// DOWNSAMPLING
+// ------------------------------------------------------------
+
+function downsample(data, maxPoints = 500) {
+  if (!Array.isArray(data) || data.length <= maxPoints) {
+    return Array.isArray(data) ? data : [];
+  }
+
+  const step = data.length / maxPoints;
+  const result = [];
+
+  for (let i = 0; i < maxPoints; i++) {
+    result.push(data[Math.floor(i * step)]);
+  }
+
+  return result;
+}
+
+
+// ------------------------------------------------------------
 // GRAPHIQUE
 // ------------------------------------------------------------
 
