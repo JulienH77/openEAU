@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="OpenEAU – Stations hydrométriques des grands cours d'eau français">
+  <title>OpenEAU – Stations hydrométriques</title>
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+  <header class="topbar">
+    <div class="brand">
+      <span class="logo">💧</span>
+      <h1>Open<span>EAU</span></h1>
+    </div>
+
+    <div class="header-actions">
+      <span id="last-updated">Chargement…</span>
+      <button id="refresh-btn" title="Actualiser les données">↻</button>
+    </div>
+  </header>
+
+  <div id="map"></div>
+
+  <aside class="sidebar">
+    <div class="sidebar-header">
+      <h2>Stations</h2>
+      <span id="count">—</span>
+    </div>
+
+    <div class="filters">
+      <label for="dept-select">Département</label>
+      <select id="dept-select">
+        <option value="all">Tous les départements</option>
+      </select>
+
+      <label for="river-select">Cours d'eau</label>
+      <select id="river-select">
+        <option value="all">Tous les cours d'eau</option>
+      </select>
+
+      <div class="sidebar-note">
+        Les stations secondaires apparaissent progressivement lorsque vous zoomez.
+      </div>
+    </div>
+  </aside>
+
+  <div class="legend">
+    <h3>Situation hydrologique</h3>
+    <div><span class="dot very-low"></span> Très bas</div>
+    <div><span class="dot low"></span> Bas</div>
+    <div><span class="dot normal"></span> Normal</div>
+    <div><span class="dot high"></span> Élevé</div>
+    <div><span class="dot very-high"></span> Très élevé</div>
+    <div><span class="dot unknown"></span> Donnée indisponible</div>
+  </div>
+
+  <div id="error" class="error-msg"></div>
+
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  <script src="script.js"></script>
+</body>
+</html>
