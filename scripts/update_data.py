@@ -12,7 +12,6 @@ from statistics import median
 from typing import Any
 
 import requests
-from bs4 import BeautifulSoup
 
 API = "https://hubeau.eaufrance.fr/api/v2/hydrometrie"
 HYDROPORTAIL = "https://www.hydro.eaufrance.fr"
