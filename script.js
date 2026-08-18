@@ -1062,6 +1062,35 @@ function drawChart(
   return graph;
 }
 
+function filterDataToDays(data, days) {
+  if (!Array.isArray(data) || data.length === 0) {
+    return [];
+  }
+
+  if (!Number.isFinite(Number(days)) || Number(days) <= 0) {
+    return data.slice();
+  }
+
+  const lastDate = new Date(data[data.length - 1].date).getTime();
+
+  if (!Number.isFinite(lastDate)) {
+    return data.slice();
+  }
+
+  const startDate =
+    lastDate -
+    Number(days) *
+      24 *
+      60 *
+      60 *
+      1000;
+
+  return data.filter(point => {
+    const pointDate = new Date(point.date).getTime();
+    return Number.isFinite(pointDate) && pointDate >= startDate && pointDate <= lastDate;
+  });
+}
+
 function renderChartControls(
   container,
   item,
