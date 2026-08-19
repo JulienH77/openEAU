@@ -5,7 +5,7 @@
 const DATA_BASE = './data';
 
 const MAP = L.map('map', {
-  zoomControl: true,
+  zoomControl: false,
   preferCanvas: true
 }).setView([46.5, 2.5], 6);
 
