@@ -70,10 +70,10 @@ Hauteur mesurée
 Exemple :
 
 ```text
-Cote du zéro :      9,58 m
-Hauteur mesurée :  -1,85 m
-────────────────────────────
-Surface de l’eau :  7,73 m
+Cote du zéro (NGF) :      436,58 m
+Hauteur mesurée (h) :      -0,85 m
+──────────────────────────────────
+Surface de l’eau (NGF) :  435,73 m
 ```
 
 Cette valeur correspond à une **altitude de la surface de l’eau**, et non à la profondeur du cours d’eau.
