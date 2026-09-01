@@ -1,1207 +1,1212 @@
 {
   "P165001001": {
-    "normal_m3s": 27.901,
+    "normal_m3s": 42.692,
     "sample_size": 78,
-    "month": 8
+    "month": 9
   },
   "P230001001": {
-    "normal_m3s": 38.712,
+    "normal_m3s": 50.128,
     "sample_size": 94,
-    "month": 8
+    "month": 9
   },
   "P122000101": {
-    "normal_m3s": 19.554000000000002,
+    "normal_m3s": 33.7805,
     "sample_size": 96,
-    "month": 8
+    "month": 9
   },
   "P163001001": {
-    "normal_m3s": 24.481,
+    "normal_m3s": 40.907,
     "sample_size": 128,
-    "month": 8
+    "month": 9
   },
   "P206000101": {
-    "normal_m3s": 30.56,
-    "sample_size": 114,
-    "month": 8
+    "normal_m3s": 58.286,
+    "sample_size": 112,
+    "month": 9
   },
   "P135001001": {
-    "normal_m3s": 25.8,
-    "sample_size": 148,
-    "month": 8
+    "normal_m3s": 40.734,
+    "sample_size": 149,
+    "month": 9
   },
   "P001001001": {
-    "normal_m3s": 1.5635,
+    "normal_m3s": 1.6705,
     "sample_size": 152,
-    "month": 8
+    "month": 9
   },
   "P018000101": {
-    "normal_m3s": 5.718500000000001,
+    "normal_m3s": 7.632,
     "sample_size": 144,
-    "month": 8
+    "month": 9
   },
   "P238001001": {
-    "normal_m3s": 37.742999999999995,
+    "normal_m3s": 59.876999999999995,
     "sample_size": 152,
-    "month": 8
+    "month": 9
   },
   "P258001001": {
-    "normal_m3s": 32.351,
+    "normal_m3s": 56.892,
     "sample_size": 38,
-    "month": 8
+    "month": 9
   },
   "P500000201": {
-    "normal_m3s": 40.845,
+    "normal_m3s": 61.224,
     "sample_size": 18,
-    "month": 8
+    "month": 9
   },
   "P532001001": {
-    "normal_m3s": 51.0255,
+    "normal_m3s": 74.49,
     "sample_size": 36,
-    "month": 8
+    "month": 9
   },
   "P514001001": {
-    "normal_m3s": 65.923,
-    "sample_size": 98,
-    "month": 8
+    "normal_m3s": 100.3315,
+    "sample_size": 100,
+    "month": 9
   },
   "P555001001": {
-    "normal_m3s": 60.476,
-    "sample_size": 58,
-    "month": 8
+    "normal_m3s": 82.9125,
+    "sample_size": 60,
+    "month": 9
   },
   "O020002001": {
-    "normal_m3s": 24.496499999999997,
+    "normal_m3s": 22.8345,
     "sample_size": 84,
-    "month": 8
+    "month": 9
   },
   "O001004003": {
-    "normal_m3s": 12.939499999999999,
+    "normal_m3s": 10.1955,
     "sample_size": 110,
-    "month": 8
+    "month": 9
   },
   "O029003001": {
-    "normal_m3s": 17.7545,
-    "sample_size": 40,
-    "month": 8
+    "normal_m3s": 15.544,
+    "sample_size": 42,
+    "month": 9
   },
   "O080001001": {
-    "normal_m3s": 36.1345,
+    "normal_m3s": 32.327,
     "sample_size": 40,
-    "month": 8
+    "month": 9
   },
   "O060003001": {
-    "normal_m3s": 51.653,
+    "normal_m3s": 50.174,
     "sample_size": 86,
-    "month": 8
+    "month": 9
   },
   "O200001001": {
-    "normal_m3s": 72.906,
+    "normal_m3s": 67.517,
     "sample_size": 213,
-    "month": 8
+    "month": 9
   },
   "O640001001": {
-    "normal_m3s": 82.591,
-    "sample_size": 12,
-    "month": 8
+    "normal_m3s": 76.408,
+    "sample_size": 10,
+    "month": 9
   },
   "O919001001": {
-    "normal_m3s": 126.26050000000001,
+    "normal_m3s": 150.30349999999999,
     "sample_size": 24,
-    "month": 8
+    "month": 9
   },
   "O614001001": {
-    "normal_m3s": 102.307,
+    "normal_m3s": 122.743,
     "sample_size": 160,
-    "month": 8
+    "month": 9
   },
   "O909001001": {
-    "normal_m3s": 131.399,
+    "normal_m3s": 159.5625,
     "sample_size": 76,
-    "month": 8
+    "month": 9
   },
   "O900001002": {
-    "normal_m3s": 143.71800000000002,
-    "sample_size": 88,
-    "month": 8
+    "normal_m3s": 164.2,
+    "sample_size": 87,
+    "month": 9
   },
   "K001872301": {
-    "normal_m3s": 0.302,
+    "normal_m3s": 0.398,
     "sample_size": 145,
-    "month": 8
+    "month": 9
   },
   "K002000101": {
-    "normal_m3s": 1.459,
+    "normal_m3s": 1.9315,
     "sample_size": 88,
-    "month": 8
+    "month": 9
   },
   "K010002010": {
-    "normal_m3s": 1.8565,
+    "normal_m3s": 1.7429999999999999,
     "sample_size": 88,
-    "month": 8
+    "month": 9
   },
   "K060001001": {
-    "normal_m3s": 7.099,
+    "normal_m3s": 12.726,
     "sample_size": 22,
-    "month": 8
+    "month": 9
   },
   "K026001002": {
-    "normal_m3s": 4.256,
+    "normal_m3s": 4.633,
     "sample_size": 150,
-    "month": 8
+    "month": 9
   },
   "K055001010": {
-    "normal_m3s": 8.558,
+    "normal_m3s": 9.511,
     "sample_size": 152,
-    "month": 8
+    "month": 9
   },
   "K069001001": {
-    "normal_m3s": 8.595,
+    "normal_m3s": 14.064,
     "sample_size": 86,
-    "month": 8
+    "month": 9
   },
   "K070001020": {
-    "normal_m3s": 9.5215,
+    "normal_m3s": 16.146,
     "sample_size": 60,
-    "month": 8
+    "month": 9
   },
   "K091001010": {
-    "normal_m3s": 18.088,
-    "sample_size": 173,
-    "month": 8
+    "normal_m3s": 34.093,
+    "sample_size": 174,
+    "month": 9
   },
   "K118001010": {
-    "normal_m3s": 21.988,
-    "sample_size": 138,
-    "month": 8
+    "normal_m3s": 36.813,
+    "sample_size": 140,
+    "month": 9
   },
   "K190001001": {
-    "normal_m3s": 40.031,
+    "normal_m3s": 60.614,
     "sample_size": 46,
-    "month": 8
+    "month": 9
   },
   "K144001010": {
-    "normal_m3s": 29.147,
+    "normal_m3s": 48.546,
     "sample_size": 110,
-    "month": 8
+    "month": 9
   },
   "K091001012": {
-    "normal_m3s": 18.088,
-    "sample_size": 173,
-    "month": 8
+    "normal_m3s": 34.093,
+    "sample_size": 174,
+    "month": 9
   },
   "O262002001": {
-    "normal_m3s": 64.234,
-    "sample_size": 107,
-    "month": 8
+    "normal_m3s": 66.7495,
+    "sample_size": 108,
+    "month": 9
   },
   "K193001010": {
-    "normal_m3s": 37.024,
+    "normal_m3s": 53.44,
     "sample_size": 142,
-    "month": 8
+    "month": 9
   },
   "K408001001": {
-    "normal_m3s": 76.434,
+    "normal_m3s": 106.045,
     "sample_size": 50,
-    "month": 8
+    "month": 9
   },
   "K400001010": {
-    "normal_m3s": 75.696,
-    "sample_size": 112,
-    "month": 8
+    "normal_m3s": 98.583,
+    "sample_size": 110,
+    "month": 9
   },
   "K480001001": {
-    "normal_m3s": 85.7835,
+    "normal_m3s": 106.967,
     "sample_size": 64,
-    "month": 8
+    "month": 9
   },
   "K490003010": {
-    "normal_m3s": 79.7285,
+    "normal_m3s": 103.643,
     "sample_size": 60,
-    "month": 8
+    "month": 9
   },
   "K683002001": {
-    "normal_m3s": 97.645,
-    "sample_size": 62,
-    "month": 8
+    "normal_m3s": 126.07000000000001,
+    "sample_size": 64,
+    "month": 9
   },
   "K447001001": {
-    "normal_m3s": 92.90100000000001,
-    "sample_size": 144,
-    "month": 8
+    "normal_m3s": 107.087,
+    "sample_size": 142,
+    "month": 9
   },
   "K435001010": {
-    "normal_m3s": 70.819,
-    "sample_size": 137,
-    "month": 8
+    "normal_m3s": 90.80250000000001,
+    "sample_size": 136,
+    "month": 9
   },
   "K418001010": {
-    "normal_m3s": 81.306,
+    "normal_m3s": 98.183,
     "sample_size": 177,
-    "month": 8
+    "month": 9
   },
   "L800001020": {
-    "normal_m3s": 183.48399999999998,
+    "normal_m3s": 199.503,
     "sample_size": 152,
-    "month": 8
+    "month": 9
   },
   "L800001030": {
-    "normal_m3s": 183.48399999999998,
+    "normal_m3s": 199.503,
     "sample_size": 152,
-    "month": 8
+    "month": 9
   },
   "L870001010": {
-    "normal_m3s": 193.036,
+    "normal_m3s": 231.686,
     "sample_size": 22,
-    "month": 8
+    "month": 9
   },
   "L870001020": {
-    "normal_m3s": 193.036,
+    "normal_m3s": 231.686,
     "sample_size": 22,
-    "month": 8
+    "month": 9
   },
   "L870001030": {
-    "normal_m3s": 193.036,
+    "normal_m3s": 231.686,
     "sample_size": 22,
-    "month": 8
+    "month": 9
   },
   "M530001010": {
-    "normal_m3s": 215.4855,
+    "normal_m3s": 232.21499999999997,
     "sample_size": 152,
-    "month": 8
+    "month": 9
   },
   "M530001020": {
-    "normal_m3s": 215.4855,
+    "normal_m3s": 232.21499999999997,
     "sample_size": 152,
-    "month": 8
+    "month": 9
   },
   "M530001030": {
-    "normal_m3s": 215.4855,
+    "normal_m3s": 232.21499999999997,
     "sample_size": 152,
-    "month": 8
+    "month": 9
   },
   "M530001040": {
-    "normal_m3s": 215.4855,
+    "normal_m3s": 232.21499999999997,
     "sample_size": 152,
-    "month": 8
+    "month": 9
   },
   "M800002001": {
-    "normal_m3s": 173.062,
+    "normal_m3s": 231.977,
     "sample_size": 31,
-    "month": 8
+    "month": 9
   },
   "F613000102": {
-    "normal_m3s": 39.132000000000005,
+    "normal_m3s": 47.5205,
     "sample_size": 28,
-    "month": 8
+    "month": 9
   },
   "F622000402": {
-    "normal_m3s": 42.917,
+    "normal_m3s": 50.587,
     "sample_size": 62,
-    "month": 8
+    "month": 9
   },
   "F664000104": {
-    "normal_m3s": 50.974,
+    "normal_m3s": 54.387,
     "sample_size": 123,
-    "month": 8
+    "month": 9
   },
   "F664000107": {
-    "normal_m3s": 50.974,
+    "normal_m3s": 54.387,
     "sample_size": 123,
-    "month": 8
+    "month": 9
   },
   "H503101001": {
-    "normal_m3s": 1.3215000000000001,
-    "sample_size": 4,
-    "month": 8
+    "normal_m3s": 1.174,
+    "sample_size": 6,
+    "month": 9
   },
   "H501102001": {
-    "normal_m3s": 1.148,
-    "sample_size": 86,
-    "month": 8
+    "normal_m3s": 1.371,
+    "sample_size": 84,
+    "month": 9
   },
   "H509101002": {
-    "normal_m3s": 31.454,
-    "sample_size": 116,
-    "month": 8
+    "normal_m3s": 36.004,
+    "sample_size": 115,
+    "month": 9
   },
   "H520101003": {
-    "normal_m3s": 33.855,
+    "normal_m3s": 37.553,
     "sample_size": 107,
-    "month": 8
+    "month": 9
   },
   "B022001001": {
-    "normal_m3s": 0.1995,
+    "normal_m3s": 0.20950000000000002,
     "sample_size": 108,
-    "month": 8
+    "month": 9
   },
   "B110000001": {
-    "normal_m3s": 0.709,
+    "normal_m3s": 0.43,
     "sample_size": 62,
-    "month": 8
+    "month": 9
   },
   "B115001001": {
-    "normal_m3s": 1.229,
+    "normal_m3s": 1.265,
     "sample_size": 98,
-    "month": 8
+    "month": 9
   },
   "B134001001": {
-    "normal_m3s": 2.532,
+    "normal_m3s": 2.3445,
     "sample_size": 120,
-    "month": 8
+    "month": 9
   },
   "B210000101": {
-    "normal_m3s": 2.298,
+    "normal_m3s": 2.096,
     "sample_size": 20,
-    "month": 8
+    "month": 9
   },
   "B213001001": {
-    "normal_m3s": 2.697,
+    "normal_m3s": 1.995,
     "sample_size": 62,
-    "month": 8
+    "month": 9
   },
   "B222001001": {
-    "normal_m3s": 4.4285,
+    "normal_m3s": 4.227,
     "sample_size": 116,
-    "month": 8
+    "month": 9
   },
   "B301001001": {
-    "normal_m3s": 7.0615,
+    "normal_m3s": 6.824999999999999,
     "sample_size": 44,
-    "month": 8
+    "month": 9
   },
   "B502001001": {
-    "normal_m3s": 26.528,
-    "sample_size": 60,
-    "month": 8
+    "normal_m3s": 26.053,
+    "sample_size": 58,
+    "month": 9
   },
   "B315002001": {
-    "normal_m3s": 12.421,
-    "sample_size": 142,
-    "month": 8
+    "normal_m3s": 10.961,
+    "sample_size": 145,
+    "month": 9
   },
   "H507104001": {
-    "normal_m3s": 6.875500000000001,
+    "normal_m3s": 5.077,
     "sample_size": 52,
-    "month": 8
+    "month": 9
   },
   "H507105001": {
-    "normal_m3s": 5.836,
+    "normal_m3s": 4.387,
     "sample_size": 50,
-    "month": 8
+    "month": 9
   },
   "B130001001": {
-    "normal_m3s": 4.01,
+    "normal_m3s": 3.028,
     "sample_size": 54,
-    "month": 8
+    "month": 9
   },
   "B720000001": {
-    "normal_m3s": 42.319,
+    "normal_m3s": 44.15,
     "sample_size": 168,
-    "month": 8
+    "month": 9
   },
   "H507101002": {
-    "normal_m3s": 7.01,
-    "sample_size": 187,
-    "month": 8
+    "normal_m3s": 7.173,
+    "sample_size": 189,
+    "month": 9
   },
   "B720000002": {
-    "normal_m3s": 42.319,
+    "normal_m3s": 44.15,
     "sample_size": 168,
-    "month": 8
+    "month": 9
   },
   "A402061001": {
-    "normal_m3s": 0.626,
+    "normal_m3s": 0.837,
     "sample_size": 94,
-    "month": 8
+    "month": 9
   },
   "A405062001": {
-    "normal_m3s": 1.453,
-    "sample_size": 110,
-    "month": 8
+    "normal_m3s": 1.8445,
+    "sample_size": 112,
+    "month": 9
   },
   "A420063001": {
-    "normal_m3s": 5.719,
-    "sample_size": 130,
-    "month": 8
+    "normal_m3s": 7.511,
+    "sample_size": 128,
+    "month": 9
   },
   "A455000201": {
-    "normal_m3s": 8.986,
+    "normal_m3s": 8.249,
     "sample_size": 22,
-    "month": 8
+    "month": 9
   },
   "A420063002": {
-    "normal_m3s": 5.719,
-    "sample_size": 130,
-    "month": 8
+    "normal_m3s": 7.511,
+    "sample_size": 128,
+    "month": 9
   },
   "A443064001": {
-    "normal_m3s": 10.3335,
+    "normal_m3s": 12.989,
     "sample_size": 122,
-    "month": 8
+    "month": 9
   },
   "A511061001": {
-    "normal_m3s": 10.953,
-    "sample_size": 103,
-    "month": 8
+    "normal_m3s": 12.591,
+    "sample_size": 104,
+    "month": 9
   },
   "A550061001": {
-    "normal_m3s": 11.755,
+    "normal_m3s": 13.632,
     "sample_size": 74,
-    "month": 8
+    "month": 9
   },
   "A573061001": {
-    "normal_m3s": 13.9655,
-    "sample_size": 128,
-    "month": 8
+    "normal_m3s": 17.038,
+    "sample_size": 131,
+    "month": 9
   },
   "A850061001": {
-    "normal_m3s": 35.461,
+    "normal_m3s": 37.986000000000004,
     "sample_size": 88,
-    "month": 8
+    "month": 9
   },
   "B700001002": {
-    "normal_m3s": 37.557,
-    "sample_size": 10,
-    "month": 8
+    "normal_m3s": 38.391,
+    "sample_size": 13,
+    "month": 9
   },
   "A793061002": {
-    "normal_m3s": 35.8725,
-    "sample_size": 128,
-    "month": 8
+    "normal_m3s": 37.855,
+    "sample_size": 126,
+    "month": 9
   },
   "A040000101": {
-    "normal_m3s": 1063.1665,
+    "normal_m3s": 1074.2865000000002,
     "sample_size": 4,
-    "month": 8
+    "month": 9
   },
   "A021005050": {
-    "normal_m3s": 997.235,
+    "normal_m3s": 888.2135000000001,
     "sample_size": 24,
-    "month": 8
+    "month": 9
   },
   "A060005050": {
-    "normal_m3s": 908.4625,
-    "sample_size": 24,
-    "month": 8
+    "normal_m3s": 849.994,
+    "sample_size": 22,
+    "month": 9
   },
   "A061005051": {
-    "normal_m3s": 945.514,
+    "normal_m3s": 941.636,
     "sample_size": 29,
-    "month": 8
+    "month": 9
   },
   "A355005050": {
-    "normal_m3s": 1078.7475,
+    "normal_m3s": 972.348,
     "sample_size": 24,
-    "month": 8
+    "month": 9
   },
   "A302009050": {
-    "normal_m3s": 1158.2875,
+    "normal_m3s": 1058.114,
     "sample_size": 64,
-    "month": 8
+    "month": 9
   },
   "A375005050": {
-    "normal_m3s": 1062.0430000000001,
+    "normal_m3s": 953.7505000000001,
     "sample_size": 24,
-    "month": 8
+    "month": 9
   },
   "V113000101": {
-    "normal_m3s": 368.97749999999996,
-    "sample_size": 12,
-    "month": 8
+    "normal_m3s": 299.532,
+    "sample_size": 14,
+    "month": 9
   },
   "V102002001": {
-    "normal_m3s": 416.903,
+    "normal_m3s": 300.667,
     "sample_size": 127,
-    "month": 8
+    "month": 9
   },
   "V300911301": {
-    "normal_m3s": 369.685,
+    "normal_m3s": 405.803,
     "sample_size": 6,
-    "month": 8
+    "month": 9
   },
   "V163002001": {
-    "normal_m3s": 441.129,
+    "normal_m3s": 343.72,
     "sample_size": 91,
-    "month": 8
+    "month": 9
   },
   "V344000101": {
-    "normal_m3s": 543.857,
+    "normal_m3s": 762.5395000000001,
     "sample_size": 4,
-    "month": 8
+    "month": 9
   },
   "V300002001": {
-    "normal_m3s": 482.923,
+    "normal_m3s": 412.382,
     "sample_size": 115,
-    "month": 8
+    "month": 9
   },
   "V303002001": {
-    "normal_m3s": 583.161,
+    "normal_m3s": 543.4,
     "sample_size": 59,
-    "month": 8
+    "month": 9
   },
   "V300002003": {
-    "normal_m3s": 482.923,
+    "normal_m3s": 412.382,
     "sample_size": 115,
-    "month": 8
+    "month": 9
   },
   "V401001001": {
-    "normal_m3s": 857.419,
+    "normal_m3s": 755.6,
     "sample_size": 93,
-    "month": 8
+    "month": 9
   },
   "V457001001": {
-    "normal_m3s": 80.912,
-    "sample_size": 44,
-    "month": 8
+    "normal_m3s": 81.639,
+    "sample_size": 46,
+    "month": 9
   },
   "V453001001": {
-    "normal_m3s": 883.097,
-    "sample_size": 96,
-    "month": 8
+    "normal_m3s": 772.833,
+    "sample_size": 95,
+    "month": 9
   },
   "V513101001": {
-    "normal_m3s": 117.913,
-    "sample_size": 73,
-    "month": 8
+    "normal_m3s": 135.281,
+    "sample_size": 71,
+    "month": 9
   },
   "V523401103": {
-    "normal_m3s": 945.756,
+    "normal_m3s": 1098.36,
     "sample_size": 1,
-    "month": 8
+    "month": 9
   },
   "V548000101": {
-    "normal_m3s": 718.5174999999999,
+    "normal_m3s": 665.73,
     "sample_size": 24,
-    "month": 8
+    "month": 9
   },
   "V730000202": {
-    "normal_m3s": 87.963,
+    "normal_m3s": 95.027,
     "sample_size": 35,
-    "month": 8
+    "month": 9
   },
   "V730000302": {
-    "normal_m3s": 805.841,
+    "normal_m3s": 816.422,
     "sample_size": 29,
-    "month": 8
+    "month": 9
   },
   "U002001001": {
-    "normal_m3s": 0.575,
+    "normal_m3s": 0.623,
     "sample_size": 78,
-    "month": 8
+    "month": 9
   },
   "U082001001": {
-    "normal_m3s": 35.853,
-    "sample_size": 24,
-    "month": 8
+    "normal_m3s": 43.341,
+    "sample_size": 26,
+    "month": 9
   },
   "U112001001": {
-    "normal_m3s": 63.7715,
-    "sample_size": 48,
-    "month": 8
+    "normal_m3s": 62.597,
+    "sample_size": 50,
+    "month": 9
   },
   "U023001001": {
-    "normal_m3s": 4.596,
+    "normal_m3s": 4.701,
     "sample_size": 122,
-    "month": 8
+    "month": 9
   },
   "U061001001": {
-    "normal_m3s": 13.461,
+    "normal_m3s": 18.003,
     "sample_size": 124,
-    "month": 8
+    "month": 9
   },
   "U142001001": {
-    "normal_m3s": 34.619,
+    "normal_m3s": 36.746,
     "sample_size": 122,
-    "month": 8
+    "month": 9
   },
   "U312001001": {
-    "normal_m3s": 167.039,
-    "sample_size": 20,
-    "month": 8
+    "normal_m3s": 250.404,
+    "sample_size": 10,
+    "month": 9
   },
   "U331001001": {
-    "normal_m3s": 224.23450000000003,
-    "sample_size": 8,
-    "month": 8
+    "normal_m3s": 196.575,
+    "sample_size": 14,
+    "month": 9
   },
   "U471001003": {
-    "normal_m3s": 100.161,
+    "normal_m3s": 114.15,
     "sample_size": 50,
-    "month": 8
+    "month": 9
   },
   "U430001001": {
-    "normal_m3s": 127.512,
-    "sample_size": 138,
-    "month": 8
+    "normal_m3s": 137.017,
+    "sample_size": 140,
+    "month": 9
   },
   "F240000104": {
-    "normal_m3s": 35.4345,
+    "normal_m3s": 37.329499999999996,
     "sample_size": 66,
-    "month": 8
+    "month": 9
   },
   "F490000104": {
-    "normal_m3s": 91.883,
+    "normal_m3s": 96.55,
     "sample_size": 101,
-    "month": 8
+    "month": 9
   },
   "F490000105": {
-    "normal_m3s": 91.883,
+    "normal_m3s": 96.55,
     "sample_size": 101,
-    "month": 8
+    "month": 9
   },
   "F700000112": {
-    "normal_m3s": 137.532,
+    "normal_m3s": 152.9875,
     "sample_size": 112,
-    "month": 8
+    "month": 9
   },
   "F700000102": {
-    "normal_m3s": 137.532,
+    "normal_m3s": 152.9875,
     "sample_size": 112,
-    "month": 8
+    "month": 9
   },
   "H002001001": {
-    "normal_m3s": 0.597,
+    "normal_m3s": 0.5075000000000001,
     "sample_size": 44,
-    "month": 8
+    "month": 9
   },
   "H010001001": {
-    "normal_m3s": 0.8095,
+    "normal_m3s": 0.8574999999999999,
     "sample_size": 116,
-    "month": 8
+    "month": 9
   },
   "H010002001": {
-    "normal_m3s": 2.9355,
-    "sample_size": 116,
-    "month": 8
+    "normal_m3s": 3.064,
+    "sample_size": 118,
+    "month": 9
   },
   "H080001201": {
-    "normal_m3s": 12.9955,
+    "normal_m3s": 15.4,
     "sample_size": 88,
-    "month": 8
+    "month": 9
   },
   "H040001001": {
-    "normal_m3s": 5.7325,
+    "normal_m3s": 4.890499999999999,
     "sample_size": 152,
-    "month": 8
+    "month": 9
   },
   "H300000201": {
-    "normal_m3s": 246.629,
+    "normal_m3s": 242.38299999999998,
     "sample_size": 36,
-    "month": 8
+    "month": 9
   },
   "H170001001": {
-    "normal_m3s": 39.155,
+    "normal_m3s": 44.072,
     "sample_size": 94,
-    "month": 8
+    "month": 9
   },
   "H081001002": {
-    "normal_m3s": 22.703,
-    "sample_size": 128,
-    "month": 8
+    "normal_m3s": 24.771,
+    "sample_size": 130,
+    "month": 9
   },
   "H320000104": {
-    "normal_m3s": 222.452,
-    "sample_size": 86,
-    "month": 8
+    "normal_m3s": 248.4,
+    "sample_size": 87,
+    "month": 9
   },
   "H322011001": {
-    "normal_m3s": 225.5405,
+    "normal_m3s": 245.451,
     "sample_size": 72,
-    "month": 8
+    "month": 9
   },
   "R002001002": {
-    "normal_m3s": 1.345,
+    "normal_m3s": 0.778,
     "sample_size": 87,
-    "month": 8
+    "month": 9
   },
   "R011002001": {
-    "normal_m3s": 2.149,
-    "sample_size": 82,
-    "month": 8
+    "normal_m3s": 1.2639999999999998,
+    "sample_size": 84,
+    "month": 9
   },
   "R234001001": {
-    "normal_m3s": 16.7725,
+    "normal_m3s": 15.25,
     "sample_size": 36,
-    "month": 8
+    "month": 9
   },
   "R011001001": {
-    "normal_m3s": 2.8295,
+    "normal_m3s": 2.236,
     "sample_size": 106,
-    "month": 8
+    "month": 9
   },
   "R202001002": {
-    "normal_m3s": 6.112,
+    "normal_m3s": 5.705,
     "sample_size": 90,
-    "month": 8
+    "month": 9
   },
   "R222001003": {
-    "normal_m3s": 4.409,
-    "sample_size": 97,
-    "month": 8
+    "normal_m3s": 4.318,
+    "sample_size": 95,
+    "month": 9
   },
   "R314001001": {
-    "normal_m3s": 16.274,
+    "normal_m3s": 15.45,
     "sample_size": 17,
-    "month": 8
+    "month": 9
   },
   "R307001002": {
-    "normal_m3s": 11.859,
+    "normal_m3s": 11.441,
     "sample_size": 49,
-    "month": 8
+    "month": 9
   },
   "R520001001": {
-    "normal_m3s": 38.4105,
-    "sample_size": 14,
-    "month": 8
+    "normal_m3s": 40.101,
+    "sample_size": 16,
+    "month": 9
   },
   "R523001002": {
-    "normal_m3s": 13.961,
+    "normal_m3s": 12.7135,
     "sample_size": 4,
-    "month": 8
+    "month": 9
   },
   "R423001001": {
-    "normal_m3s": 15.556000000000001,
-    "sample_size": 50,
-    "month": 8
+    "normal_m3s": 16.872,
+    "sample_size": 48,
+    "month": 9
   },
   "K509090001": {
-    "normal_m3s": 0.542,
-    "sample_size": 122,
-    "month": 8
+    "normal_m3s": 0.694,
+    "sample_size": 120,
+    "month": 9
   },
   "K522090003": {
-    "normal_m3s": 1.441,
-    "sample_size": 59,
-    "month": 8
+    "normal_m3s": 1.8755,
+    "sample_size": 58,
+    "month": 9
   },
   "K540092001": {
-    "normal_m3s": 3.154,
-    "sample_size": 100,
-    "month": 8
+    "normal_m3s": 3.9030000000000005,
+    "sample_size": 104,
+    "month": 9
   },
   "K548092010": {
-    "normal_m3s": 2.522,
+    "normal_m3s": 4.419,
     "sample_size": 10,
-    "month": 8
+    "month": 9
   },
   "K622091003": {
-    "normal_m3s": 7.907500000000001,
-    "sample_size": 24,
-    "month": 8
+    "normal_m3s": 9.188,
+    "sample_size": 26,
+    "month": 9
   },
   "K549090001": {
-    "normal_m3s": 4.645,
+    "normal_m3s": 4.908,
     "sample_size": 62,
-    "month": 8
+    "month": 9
   },
   "K650091001": {
-    "normal_m3s": 11.2545,
-    "sample_size": 64,
-    "month": 8
+    "normal_m3s": 14.316,
+    "sample_size": 62,
+    "month": 9
   },
   "K671091001": {
-    "normal_m3s": 14.6295,
+    "normal_m3s": 17.8765,
     "sample_size": 52,
-    "month": 8
+    "month": 9
   },
   "U200201001": {
-    "normal_m3s": 0.673,
-    "sample_size": 90,
-    "month": 8
+    "normal_m3s": 0.8825000000000001,
+    "sample_size": 92,
+    "month": 9
   },
   "U201202001": {
-    "normal_m3s": 2.092,
-    "sample_size": 82,
-    "month": 8
+    "normal_m3s": 2.3375,
+    "sample_size": 80,
+    "month": 9
   },
   "U201201001": {
-    "normal_m3s": 1.312,
+    "normal_m3s": 1.6915,
     "sample_size": 132,
-    "month": 8
+    "month": 9
   },
   "U202202002": {
-    "normal_m3s": 1.937,
-    "sample_size": 78,
-    "month": 8
+    "normal_m3s": 2.6495,
+    "sample_size": 76,
+    "month": 9
   },
   "U211201001": {
-    "normal_m3s": 5.422,
+    "normal_m3s": 7.129,
     "sample_size": 68,
-    "month": 8
+    "month": 9
   },
   "U210201002": {
-    "normal_m3s": 1.032,
+    "normal_m3s": 2.142,
     "sample_size": 88,
-    "month": 8
+    "month": 9
   },
   "U222200501": {
-    "normal_m3s": 12.2915,
+    "normal_m3s": 17.931,
     "sample_size": 36,
-    "month": 8
+    "month": 9
   },
   "U214201001": {
-    "normal_m3s": 10.974,
-    "sample_size": 134,
-    "month": 8
+    "normal_m3s": 11.7135,
+    "sample_size": 132,
+    "month": 9
   },
   "U250201001": {
-    "normal_m3s": 26.857999999999997,
+    "normal_m3s": 31.741999999999997,
     "sample_size": 56,
-    "month": 8
+    "month": 9
   },
   "U212201001": {
-    "normal_m3s": 9.439,
-    "sample_size": 138,
-    "month": 8
+    "normal_m3s": 11.0115,
+    "sample_size": 140,
+    "month": 9
   },
   "U222201001": {
-    "normal_m3s": 15.112,
-    "sample_size": 96,
-    "month": 8
+    "normal_m3s": 17.212,
+    "sample_size": 98,
+    "month": 9
   },
   "U254201001": {
-    "normal_m3s": 30.98,
+    "normal_m3s": 33.056,
     "sample_size": 128,
-    "month": 8
+    "month": 9
   },
   "U251201001": {
-    "normal_m3s": 29.0805,
+    "normal_m3s": 31.4895,
     "sample_size": 152,
-    "month": 8
+    "month": 9
   },
   "U240201001": {
-    "normal_m3s": 21.03,
+    "normal_m3s": 29.794,
     "sample_size": 94,
-    "month": 8
+    "month": 9
   },
   "U272201001": {
-    "normal_m3s": 42.808,
+    "normal_m3s": 57.046,
     "sample_size": 118,
-    "month": 8
+    "month": 9
   },
   "O700151002": {
-    "normal_m3s": 0.312,
+    "normal_m3s": 0.334,
     "sample_size": 86,
-    "month": 8
+    "month": 9
   },
   "O702153002": {
-    "normal_m3s": 0.652,
-    "sample_size": 101,
-    "month": 8
+    "normal_m3s": 0.702,
+    "sample_size": 99,
+    "month": 9
   },
   "O702153003": {
-    "normal_m3s": 0.652,
-    "sample_size": 101,
-    "month": 8
+    "normal_m3s": 0.702,
+    "sample_size": 99,
+    "month": 9
   },
   "O710151001": {
-    "normal_m3s": 2.487,
-    "sample_size": 150,
-    "month": 8
+    "normal_m3s": 2.8855000000000004,
+    "sample_size": 148,
+    "month": 9
   },
   "O719151001": {
-    "normal_m3s": 6.9755,
+    "normal_m3s": 6.8575,
     "sample_size": 104,
-    "month": 8
+    "month": 9
   },
   "O820151001": {
-    "normal_m3s": 34.0865,
-    "sample_size": 16,
-    "month": 8
+    "normal_m3s": 43.841,
+    "sample_size": 10,
+    "month": 9
   },
   "O723403101": {
-    "normal_m3s": 4.126,
-    "sample_size": 149,
-    "month": 8
+    "normal_m3s": 4.487,
+    "sample_size": 147,
+    "month": 9
   },
   "O823153001": {
-    "normal_m3s": 31.463,
+    "normal_m3s": 34.959,
     "sample_size": 73,
-    "month": 8
+    "month": 9
   },
   "O823153002": {
-    "normal_m3s": 31.463,
+    "normal_m3s": 34.959,
     "sample_size": 73,
-    "month": 8
+    "month": 9
   },
   "O866151002": {
-    "normal_m3s": 25.71,
-    "sample_size": 50,
-    "month": 8
+    "normal_m3s": 33.3435,
+    "sample_size": 48,
+    "month": 9
   },
   "O848153003": {
-    "normal_m3s": 39.11,
+    "normal_m3s": 49.462,
     "sample_size": 53,
-    "month": 8
+    "month": 9
   },
   "M302091010": {
-    "normal_m3s": 0.221,
+    "normal_m3s": 0.21500000000000002,
     "sample_size": 64,
-    "month": 8
+    "month": 9
   },
   "M323091020": {
-    "normal_m3s": 3.9055,
-    "sample_size": 44,
-    "month": 8
+    "normal_m3s": 3.957,
+    "sample_size": 42,
+    "month": 9
   },
   "M306091010": {
-    "normal_m3s": 0.837,
+    "normal_m3s": 0.961,
     "sample_size": 66,
-    "month": 8
+    "month": 9
   },
   "M323092010": {
-    "normal_m3s": 3.77,
-    "sample_size": 113,
-    "month": 8
+    "normal_m3s": 3.5355,
+    "sample_size": 112,
+    "month": 9
   },
   "M334091010": {
-    "normal_m3s": 5.002,
+    "normal_m3s": 5.709,
     "sample_size": 110,
-    "month": 8
+    "month": 9
   },
   "M360091010": {
-    "normal_m3s": 5.8635,
+    "normal_m3s": 6.6455,
     "sample_size": 112,
-    "month": 8
+    "month": 9
   },
   "M363091010": {
-    "normal_m3s": 6.166,
-    "sample_size": 112,
-    "month": 8
+    "normal_m3s": 7.335,
+    "sample_size": 110,
+    "month": 9
   },
   "M005061020": {
-    "normal_m3s": 1.2465,
+    "normal_m3s": 1.1545,
     "sample_size": 104,
-    "month": 8
+    "month": 9
   },
   "M025061010": {
-    "normal_m3s": 3.379,
-    "sample_size": 104,
-    "month": 8
+    "normal_m3s": 3.585,
+    "sample_size": 99,
+    "month": 9
   },
   "M025061020": {
-    "normal_m3s": 3.379,
-    "sample_size": 104,
-    "month": 8
+    "normal_m3s": 3.585,
+    "sample_size": 99,
+    "month": 9
   },
   "M050061010": {
-    "normal_m3s": 11.419,
+    "normal_m3s": 11.269,
     "sample_size": 142,
-    "month": 8
+    "month": 9
   },
   "M068061010": {
-    "normal_m3s": 12.206,
-    "sample_size": 110,
-    "month": 8
+    "normal_m3s": 13.8435,
+    "sample_size": 108,
+    "month": 9
   },
   "K163301001": {
-    "normal_m3s": 0.137,
-    "sample_size": 10,
-    "month": 8
+    "normal_m3s": 0.753,
+    "sample_size": 12,
+    "month": 9
   },
   "O313000101": {
-    "normal_m3s": 0.293,
-    "sample_size": 38,
-    "month": 8
+    "normal_m3s": 0.2455,
+    "sample_size": 40,
+    "month": 9
   },
   "O301101001": {
-    "normal_m3s": 0.2495,
-    "sample_size": 148,
-    "month": 8
+    "normal_m3s": 0.393,
+    "sample_size": 150,
+    "month": 9
   },
   "O303101001": {
-    "normal_m3s": 0.661,
-    "sample_size": 122,
-    "month": 8
+    "normal_m3s": 1.2655,
+    "sample_size": 120,
+    "month": 9
   },
   "O312102002": {
-    "normal_m3s": 1.5950000000000002,
-    "sample_size": 128,
-    "month": 8
+    "normal_m3s": 2.621,
+    "sample_size": 126,
+    "month": 9
   },
   "O343000101": {
-    "normal_m3s": 0.021,
+    "normal_m3s": 0.019,
     "sample_size": 28,
-    "month": 8
+    "month": 9
   },
   "O314101001": {
-    "normal_m3s": 6.6905,
-    "sample_size": 152,
-    "month": 8
+    "normal_m3s": 7.807,
+    "sample_size": 150,
+    "month": 9
   },
   "O340101002": {
-    "normal_m3s": 12.165,
-    "sample_size": 122,
-    "month": 8
+    "normal_m3s": 13.466,
+    "sample_size": 119,
+    "month": 9
   },
   "O347000101": {
-    "normal_m3s": 14.658,
+    "normal_m3s": 16.456,
     "sample_size": 47,
-    "month": 8
+    "month": 9
   },
   "O360102001": {
-    "normal_m3s": 14.552,
-    "sample_size": 38,
-    "month": 8
+    "normal_m3s": 17.402,
+    "sample_size": 30,
+    "month": 9
   },
   "O400101001": {
-    "normal_m3s": 52.678,
-    "sample_size": 68,
-    "month": 8
+    "normal_m3s": 50.778499999999994,
+    "sample_size": 44,
+    "month": 9
   },
   "O408101001": {
-    "normal_m3s": 91.481,
+    "normal_m3s": 95.8065,
     "sample_size": 84,
-    "month": 8
+    "month": 9
   },
   "O384000201": {
-    "normal_m3s": 17.835,
-    "sample_size": 219,
-    "month": 8
+    "normal_m3s": 24.381,
+    "sample_size": 218,
+    "month": 9
   },
   "O499103001": {
-    "normal_m3s": 23.465,
+    "normal_m3s": 29.922,
     "sample_size": 34,
-    "month": 8
+    "month": 9
   },
   "O494101001": {
-    "normal_m3s": 110.113,
-    "sample_size": 38,
-    "month": 8
+    "normal_m3s": 110.56899999999999,
+    "sample_size": 40,
+    "month": 9
   },
   "O493101001": {
-    "normal_m3s": 28.477,
+    "normal_m3s": 39.215,
     "sample_size": 129,
-    "month": 8
+    "month": 9
   },
   "G410000301": {
-    "normal_m3s": 0.381,
-    "sample_size": 8,
-    "month": 8
+    "normal_m3s": 0.351,
+    "sample_size": 6,
+    "month": 9
   },
   "L001061001": {
-    "normal_m3s": 0.375,
-    "sample_size": 73,
-    "month": 8
+    "normal_m3s": 0.491,
+    "sample_size": 72,
+    "month": 9
   },
   "L005063001": {
-    "normal_m3s": 2.032,
+    "normal_m3s": 2.0915,
     "sample_size": 64,
-    "month": 8
+    "month": 9
   },
   "L001061101": {
-    "normal_m3s": 0.394,
-    "sample_size": 110,
-    "month": 8
+    "normal_m3s": 0.412,
+    "sample_size": 108,
+    "month": 9
   },
   "L062061001": {
-    "normal_m3s": 17.563499999999998,
+    "normal_m3s": 19.426000000000002,
     "sample_size": 36,
-    "month": 8
+    "month": 9
   },
   "L014061001": {
-    "normal_m3s": 9.59,
+    "normal_m3s": 12.553,
     "sample_size": 142,
-    "month": 8
+    "month": 9
   },
   "L040061001": {
-    "normal_m3s": 17.258,
+    "normal_m3s": 18.002,
     "sample_size": 155,
-    "month": 8
+    "month": 9
   },
   "L040061002": {
-    "normal_m3s": 17.258,
+    "normal_m3s": 18.002,
     "sample_size": 155,
-    "month": 8
+    "month": 9
   },
   "L092061002": {
-    "normal_m3s": 22.180500000000002,
-    "sample_size": 104,
-    "month": 8
+    "normal_m3s": 24.488,
+    "sample_size": 102,
+    "month": 9
   },
   "L094061001": {
-    "normal_m3s": 22.6555,
+    "normal_m3s": 22.750500000000002,
     "sample_size": 52,
-    "month": 8
+    "month": 9
   },
   "L144061001": {
-    "normal_m3s": 19.518,
+    "normal_m3s": 24.286,
     "sample_size": 38,
-    "month": 8
+    "month": 9
   },
   "L320061001": {
-    "normal_m3s": 33.371,
+    "normal_m3s": 38.541,
     "sample_size": 10,
-    "month": 8
+    "month": 9
   },
   "L140061001": {
-    "normal_m3s": 21.745,
+    "normal_m3s": 24.927,
     "sample_size": 82,
-    "month": 8
+    "month": 9
   },
   "L720061001": {
-    "normal_m3s": 40.584,
+    "normal_m3s": 45.073,
     "sample_size": 34,
-    "month": 8
+    "month": 9
   },
   "L320062001": {
-    "normal_m3s": 34.415,
-    "sample_size": 130,
-    "month": 8
+    "normal_m3s": 34.712,
+    "sample_size": 132,
+    "month": 9
   },
   "L700061001": {
-    "normal_m3s": 47.028,
-    "sample_size": 140,
-    "month": 8
+    "normal_m3s": 55.889,
+    "sample_size": 141,
+    "month": 9
   },
   "I535201001": {
-    "normal_m3s": 0.418,
-    "sample_size": 82,
-    "month": 8
+    "normal_m3s": 0.421,
+    "sample_size": 78,
+    "month": 9
   },
   "V426401001": {
-    "normal_m3s": 2.948,
-    "sample_size": 114,
-    "month": 8
+    "normal_m3s": 4.1625,
+    "sample_size": 116,
+    "month": 9
   },
   "V421401001": {
-    "normal_m3s": 0.253,
-    "sample_size": 148,
-    "month": 8
+    "normal_m3s": 0.348,
+    "sample_size": 146,
+    "month": 9
   },
   "M104161010": {
-    "normal_m3s": 0.605,
+    "normal_m3s": 0.678,
     "sample_size": 110,
-    "month": 8
+    "month": 9
   },
   "M134161010": {
-    "normal_m3s": 7.884,
-    "sample_size": 66,
-    "month": 8
+    "normal_m3s": 9.068000000000001,
+    "sample_size": 64,
+    "month": 9
   },
   "M115161010": {
-    "normal_m3s": 5.6075,
-    "sample_size": 104,
-    "month": 8
+    "normal_m3s": 6.5415,
+    "sample_size": 108,
+    "month": 9
   },
   "E635140201": {
-    "normal_m3s": 4.931,
-    "sample_size": 42,
-    "month": 8
+    "normal_m3s": 4.644500000000001,
+    "sample_size": 40,
+    "month": 9
   },
   "M153161010": {
-    "normal_m3s": 10.885,
+    "normal_m3s": 12.823,
     "sample_size": 126,
-    "month": 8
+    "month": 9
   },
   "E635142002": {
-    "normal_m3s": 1.3860000000000001,
+    "normal_m3s": 1.2055,
     "sample_size": 52,
-    "month": 8
+    "month": 9
   },
   "E635142601": {
-    "normal_m3s": 4.6985,
-    "sample_size": 16,
-    "month": 8
+    "normal_m3s": 4.92,
+    "sample_size": 14,
+    "month": 9
+  },
+  "K520090010": {
+    "normal_m3s": 6.517,
+    "sample_size": 4,
+    "month": 9
   }
 }
