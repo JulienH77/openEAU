@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-17T20:57:28.678784+00:00",
+  "updated": "2026-11-18T02:56:07.491749+00:00",
   "count": 355,
   "stations": [
     {
@@ -4464,8 +4464,8 @@
       "river": "Le Doubs",
       "city": "NEUBLANS-ABERGEMENT",
       "department": "JURA",
-      "lat": 46.921642545,
-      "lon": 5.350597382,
+      "lat": 46.922147207,
+      "lon": 5.350562571,
       "importance": 2,
       "zero_scale_m": 180.0,
       "zero_scale_datum": null,
